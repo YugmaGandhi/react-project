@@ -1,5 +1,3 @@
-Certainly! Here's a possible README.md file for the given React code:
-
 # Animal Show App
 
 The Animal Show App is a simple React application that allows you to add random animals and display them with an interactive heart animation.
